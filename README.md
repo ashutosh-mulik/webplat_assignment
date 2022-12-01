@@ -1,6 +1,5 @@
 # assignment
-
-Assignment
+![alt text](https://raw.githubusercontent.com/ashutosh-mulik/webplat_assignment/master/output.png)
 
 ## Getting Started
 
